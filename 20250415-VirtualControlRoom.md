@@ -2,7 +2,7 @@
 
 With the rapid development of artificial intelligence technology, virtual control room large models are becoming the new frontier in industrial intelligent management. This technology integrates large language models, multimodal perception, and decision support systems, bringing revolutionary changes to industrial field operations.
 
-![Virtual Control Room](/blog_imgs/01ef702e3deb862e5b690221eb8ebcce117014c404df35072bef5a9fced8f8b6.png)
+![Virtual Control Room](https://holocode.diy/blog_imgs/01ef702e3deb862e5b690221eb8ebcce117014c404df35072bef5a9fced8f8b6.png)
 
 ## Innovative Features
 
