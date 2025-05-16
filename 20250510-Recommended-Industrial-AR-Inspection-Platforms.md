@@ -67,3 +67,5 @@ XYZ Reality offers the Atom™, an Engineering Grade AR™ headset that overlays
 
 FactoryOptix is an affordable AR software solution for manufacturing, aiming to improve operator satisfaction and process flow. It supports hands-free assembly and inspection tasks, enhancing efficiency on the shop floor.  ￼ ￼
 
+
+> From Medium [Recommended Industrial AR Inspection Platforms](https://medium.com/@cory1851/recommended-industrial-ar-inspection-platforms-35f74637a2dc)
