@@ -1,4 +1,4 @@
-## Best Industrial AR Platforms: User Reviews from May 2025 🚀
+# Best Industrial AR Platforms: User Reviews from May 2025 🚀
 
 > From  [Best Industrial AR Platforms: User Reviews from May 2025 @ Medium](https://cory1851.medium.com/best-industrial-ar-platforms-user-reviews-from-may-2025-7d627161ed27)
 
