@@ -23,16 +23,16 @@ These challenges highlight a clear need: a platform that not only delivers on th
 ## Introducing HoloCode: Intelligent Spatial Computing, Simplified.
 This is where **HoloCode** steps in.
 
-HoloCode is built on the philosophy of **fusing cutting-edge AI models with XR technologies to build next-generation intelligent spatial platforms**. We believe that the future of spatial computing lies in its ability to be intuitive, adaptive, and empowering for everyone – from seasoned developers to creative individuals taking their first steps into XR.
+HoloCode.aiis built on the philosophy of **fusing cutting-edge AI models with XR technologies to build next-generation intelligent spatial platforms**. We believe that the future of spatial computing lies in its ability to be intuitive, adaptive, and empowering for everyone – from seasoned developers to creative individuals taking their first steps into XR.
 
 Our mission is to democratize the creation and experience of intelligent spatial applications, making them more accessible, practical, and impactful.
 
-## How HoloCode Empowers You:
-HoloCode isn't just another XR platform; it's an ecosystem designed to solve the core challenges users face:
+## How HoloCode.aiEmpowers You:
+HoloCode.aiisn't just another XR platform; it's an ecosystem designed to solve the core challenges users face:
 
 - **AI-Driven Intelligence at its Core:**
 
-    Imagine spatial environments that understand you and your context. HoloCode leverages advanced AI for:
+    Imagine spatial environments that understand you and your context. HoloCode.aileverages advanced AI for:
 
     - Intelligent Scene Understanding: Enabling applications to recognize objects, understand spatial relationships, and react dynamically to the real world in AR/MR scenarios.
 
@@ -42,17 +42,17 @@ HoloCode isn't just another XR platform; it's an ecosystem designed to solve the
 
 - **Simplified Creation & Development (The "DIY" Advantage):**
 
-    HoloCode is designed to lower the barrier to entry for creating sophisticated spatial experiences. Through holocode.diy, we provide:
+    HoloCode.aiis designed to lower the barrier to entry for creating sophisticated spatial experiences. Through holocode.diy, we provide:
 
     - **AI-Assisted Content Generation**: Tools that leverage generative AI to help create 3D assets, textures, and even interactive scenarios, significantly reducing development time and cost.
 
-    - **Intuitive Authoring Tools**: Whether you prefer no-code/low-code solutions for rapid prototyping or robust SDKs and APIs for deep customization, HoloCode provides the flexibility you need.
+    - **Intuitive Authoring Tools**: Whether you prefer no-code/low-code solutions for rapid prototyping or robust SDKs and APIs for deep customization, HoloCode.aiprovides the flexibility you need.
 
     - **Bridging the Skill Gap**: Our platform is designed to empower existing developers and new creators, providing the resources and support to bring their spatial visions to life without years of specialized training.
 
 - **Seamless Integration & Optimized Performance:**
 
-    We understand that technology should adapt to you, not the other way around. HoloCode prioritizes:
+    We understand that technology should adapt to you, not the other way around. HoloCode.aiprioritizes:
 
     - **Smooth Interoperability**: Designed for easier integration with existing workflows and systems, minimizing disruption.
 
@@ -62,7 +62,7 @@ HoloCode isn't just another XR platform; it's an ecosystem designed to solve the
 
 - **Focus on Practical Applications & Demonstrable ROI:**
 
-    HoloCode is engineered to deliver tangible benefits across various sectors, including education, training, design, collaboration, and retail. Our platform enables the development of applications that:
+    HoloCode.aiis engineered to deliver tangible benefits across various sectors, including education, training, design, collaboration, and retail. Our platform enables the development of applications that:
 
     - Enhance learning and skill development through immersive simulations.
 
@@ -74,10 +74,10 @@ HoloCode isn't just another XR platform; it's an ecosystem designed to solve the
 
 - **Built with Security & Trust in Mind:**
 
-    We are committed to responsible innovation. HoloCode is being developed with a strong emphasis on data privacy, security protocols, and ethical AI principles to ensure a safe and trustworthy environment for all users.
+    We are committed to responsible innovation. HoloCode.aiis being developed with a strong emphasis on data privacy, security protocols, and ethical AI principles to ensure a safe and trustworthy environment for all users.
 
 ## The Future is Spatial, and It's Intelligent with HoloCode
-Spatial computing is poised to redefine our digital interactions. But its success hinges on making it intelligent, accessible, and genuinely useful. HoloCode is at the forefront of this evolution, providing the tools and platform to move beyond the hype and build the next generation of intelligent spatial experiences.
+Spatial computing is poised to redefine our digital interactions. But its success hinges on making it intelligent, accessible, and genuinely useful. HoloCode.aiis at the forefront of this evolution, providing the tools and platform to move beyond the hype and build the next generation of intelligent spatial experiences.
 
 Are you ready to explore the future?
 

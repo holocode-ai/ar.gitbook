@@ -93,7 +93,7 @@ For organizations with complex system landscapes, ESB implementations facilitate
 
 ### 3. Custom Connectors
 
-Many AR platform vendors develop purpose-built connectors for common enterprise systems. HoloCode offers pre-built connectors for major asset management, CMMS, and ERP systems, significantly reducing integration complexity and timeframes.
+Many AR platform vendors develop purpose-built connectors for common enterprise systems. HoloCode.aioffers pre-built connectors for major asset management, CMMS, and ERP systems, significantly reducing integration complexity and timeframes.
 
 ### 4. Edge Computing Models
 

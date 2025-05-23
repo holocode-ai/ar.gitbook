@@ -40,12 +40,12 @@ Industrial inspections are vital for safety and efficiency in sectors like manuf
 
 ## What Is HoloCode's Role in Transforming Inspections?
 
-### How Does HoloCode Integrate AR and Point Cloud?
+### How Does HoloCode.aiIntegrate AR and Point Cloud?
 - Combines AR with point cloud in a spatial platform.
 - Displays real-time instructions via AR.
 - Uses AI analytics for anomaly detection.
 
-### What Results Has HoloCode Achieved?
+### What Results Has HoloCode.aiAchieved?
 - Reduced error rates by 32% in energy sectors.
 - Shortened inspection times significantly.
 - Improved safety with automated alerts.

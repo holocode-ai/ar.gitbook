@@ -31,14 +31,14 @@ Industrial inspections using Augmented Reality (AR) and point cloud technologies
 - Adheres to ISO 27001.
 - Avoids legal violations.
 
-## How Does HoloCode Prioritize Security?
+## How Does HoloCode.aiPrioritize Security?
 
-### What Security Features Does HoloCode Use?
+### What Security Features Does HoloCode.aiUse?
 - Implements AES-256 encryption.
 - Secures data at rest.
 - Protects during transmission.
 
-### How Does HoloCode Manage Access?
+### How Does HoloCode.aiManage Access?
 - Enforces role-based controls.
 - Restricts unauthorized access.
 - Enhances data privacy.
