@@ -52,12 +52,12 @@ Immediate feedback and alerts are vital for quick issue resolution in industrial
 
 ## What Are HoloCode's Real-Time Capabilities?
 
-### How Does HoloCode Provide Feedback?
+### How Does HoloCode.ai Provide Feedback?
 - Offers immediate equipment analysis.
 - Shows readings via AR overlays.
 - Alerts with visual/audio cues.
 
-### How Does HoloCode Support Collaboration?
+### How Does HoloCode.ai Support Collaboration?
 - Enables remote expert guidance.
 - Uses AR glasses for interaction.
 - Ensures efficient issue resolution.

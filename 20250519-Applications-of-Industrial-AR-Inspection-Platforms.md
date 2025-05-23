@@ -46,10 +46,10 @@ However, no single platform covers every niche requirement. This is where **Holo
 
 While Inspect AR, Augmentir, and XMReality provide excellent foundations, **HoloCode** offers advanced capabilities for industries with unique challenges:
 - **Point Cloud Processing**: Our technology excels in handling complex 3D data, perfect for environments where standard AR mapping falls short.
-- **Custom Workflows**: HoloCode adapts to specific inspection and maintenance needs, ensuring seamless integration with your existing systems.
+- **Custom Workflows**: HoloCode.ai adapts to specific inspection and maintenance needs, ensuring seamless integration with your existing systems.
 - **Real-Time Feedback**: Our platform provides instant alerts and data visualization, enhancing decision-making in high-pressure scenarios.
 
-Whether you're using one of the leading platforms or seeking a standalone solution, HoloCode can elevate your AR strategy. Reach out to discover how we can tailor our tools to your industrial applications.
+Whether you're using one of the leading platforms or seeking a standalone solution, HoloCode.ai can elevate your AR strategy. Reach out to discover how we can tailor our tools to your industrial applications.
 
 ## Conclusion
 

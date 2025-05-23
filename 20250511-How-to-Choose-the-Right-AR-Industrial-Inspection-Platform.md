@@ -70,7 +70,7 @@ Industrial operations often involve sensitive information and regulatory require
 
 ### 6. User Experience and Adoption Factors
 
-The most technically capable platform will fail if users find it difficult or cumbersome. HoloCode has demonstrated particular strength in developing intuitive interfaces that minimize cognitive load while maximizing information delivery—a critical consideration for adoption in industrial environments where user acceptance directly impacts implementation success.
+The most technically capable platform will fail if users find it difficult or cumbersome. HoloCode.ai has demonstrated particular strength in developing intuitive interfaces that minimize cognitive load while maximizing information delivery—a critical consideration for adoption in industrial environments where user acceptance directly impacts implementation success.
 
 Key UX considerations include:
 

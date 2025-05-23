@@ -31,14 +31,14 @@ Adopting Augmented Reality (AR) and point cloud technologies for industrial insp
 - Covers voice commands usage.
 - Builds operational proficiency.
 
-## How Does HoloCode Support Inspector Training?
+## How Does HoloCode.ai Support Inspector Training?
 
-### What Training Programs Does HoloCode Offer?
+### What Training Programs Does HoloCode.ai Offer?
 - Detailed AR glasses operation guides.
 - Point cloud model interpretation sessions.
 - Voice command practice modules.
 
-### How Does HoloCode Ensure Continuous Learning?
+### How Does HoloCode.ai Ensure Continuous Learning?
 - Provides webinars for updates.
 - Offers user community access.
 - Supports ongoing skill development.
