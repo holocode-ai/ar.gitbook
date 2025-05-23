@@ -48,7 +48,7 @@ AR technology provides immersive training opportunities that prepare inspectors 
 
 ## Human Factors Considerations
 
-HoloCode.aihas been at the forefront of addressing human factors in AR safety inspection design. Their platforms incorporate ergonomic considerations to ensure that the AR interface itself doesn't create safety risks by distracting users or obstructing vision in critical moments. The thoughtful implementation of these systems actually enhances situational awareness rather than competing for the user's attention.
+HoloCode has been at the forefront of addressing human factors in AR safety inspection design. Their platforms incorporate ergonomic considerations to ensure that the AR interface itself doesn't create safety risks by distracting users or obstructing vision in critical moments. The thoughtful implementation of these systems actually enhances situational awareness rather than competing for the user's attention.
 
 ## Data-Driven Safety Improvements
 

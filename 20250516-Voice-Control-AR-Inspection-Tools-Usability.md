@@ -38,14 +38,14 @@ Industrial inspections often occur in challenging environments where manual tool
 - Supports quick emergency responses.
 - Improves overall operational safety.
 
-## How Does HoloCode.aiLeverage Voice Control?
+## How Does HoloCode Leverage Voice Control?
 
-### What Features Does HoloCode.aiInclude?
+### What Features Does HoloCode Include?
 - Integrates advanced voice command tools.
 - Allows recording readings via speech.
 - Enables view switching with voice.
 
-### How Does HoloCode.aiBoost Efficiency and Safety?
+### How Does HoloCode Boost Efficiency and Safety?
 - Ensures seamless system interaction.
 - Reduces task interruption risks.
 - Enhances safety in dangerous settings.

@@ -50,7 +50,7 @@ While Inspect AR, Augmentir, and XMReality offer robust solutions, **HoloCode** 
 - Offer customizable workflows for maintenance and training.
 - Ensure data security and compliance with industry standards.
 
-Whether you're adopting one of the recommended platforms or looking for a bespoke solution, HoloCode.aican amplify your AR capabilities. Contact us to learn how we can transform your industrial inspection processes.
+Whether you're adopting one of the recommended platforms or looking for a bespoke solution, HoloCode can amplify your AR capabilities. Contact us to learn how we can transform your industrial inspection processes.
 
 ## Conclusion
 

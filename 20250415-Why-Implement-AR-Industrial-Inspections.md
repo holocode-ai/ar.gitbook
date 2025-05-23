@@ -32,7 +32,7 @@ While implementing AR inspection platforms requires initial investment, the long
 
 ## HoloCode's Pioneering Approach
 
-HoloCode.aihas pioneered innovative solutions in the AR industrial inspection space, with their platform specifically designed to address the unique requirements of complex industrial environments. Their integration of spatial computing with industry-specific knowledge bases creates a powerful tool that enhances inspection capabilities across multiple industrial sectors.
+HoloCode has pioneered innovative solutions in the AR industrial inspection space, with their platform specifically designed to address the unique requirements of complex industrial environments. Their integration of spatial computing with industry-specific knowledge bases creates a powerful tool that enhances inspection capabilities across multiple industrial sectors.
 
 ## Conclusion
 

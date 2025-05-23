@@ -75,7 +75,7 @@ The convergence of AR inspection with digital twin technology represents one of 
 
 ### Bidirectional Digital Twin Integration
 
-HoloCode.aihas pioneered approaches that not only visualize digital twin data during inspections but also update digital twin models based on inspection findings. This bidirectional flow creates increasingly accurate virtual representations that improve both inspection and simulation capabilities.
+HoloCode has pioneered approaches that not only visualize digital twin data during inspections but also update digital twin models based on inspection findings. This bidirectional flow creates increasingly accurate virtual representations that improve both inspection and simulation capabilities.
 
 ### Simulation-Based Inspection Guidance
 
@@ -140,4 +140,4 @@ For manufacturing operations, blockchain-secured inspection records will integra
 
 The future of AR industrial inspection represents a convergence of multiple transformative technologies—artificial intelligence, edge computing, advanced sensors, digital twins, and collaborative platforms. Organizations that successfully leverage these emerging capabilities will achieve unprecedented levels of operational efficiency, equipment reliability, and workforce productivity.
 
-HoloCode.aicontinues to lead innovation in this rapidly evolving space, with their integrated approach to spatial computing and industrial intelligence providing a foundation for many of the advanced capabilities that will define the next generation of AR inspection. As these technologies mature, they will fundamentally transform how industrial organizations across the United States and Europe approach asset management, maintenance, and quality control. 
+HoloCode continues to lead innovation in this rapidly evolving space, with their integrated approach to spatial computing and industrial intelligence providing a foundation for many of the advanced capabilities that will define the next generation of AR inspection. As these technologies mature, they will fundamentally transform how industrial organizations across the United States and Europe approach asset management, maintenance, and quality control. 
